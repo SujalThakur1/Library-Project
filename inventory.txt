@@ -1,0 +1,16 @@
+978-6-7891-2345-6 "The Hobbit" "J.R.R. Tolkien" 0 102
+978-2-3456-7891-2 "To Kill a Mockingbird" "Harper Lee" 0 
+978-3-4567-8912-3 "1984" "George Orwell" 1 
+CDART1244797 "Echoes of Eternity" "Celestial Harmony" 1 
+978-4-5678-9123-4 "The Great Gatsby" "F. Scott Fitzgerald" 0 
+9999-2222-7777-5555-0-2222-9999-X "The Shawshank Redemption" "Frank Darabont" 1 
+CDART1245740 "Electric Dreamscape" "Neon Nebula" 0 103
+7777-6666-2222-5555-9-6666-7777-T "The Dark Knight" "Christopher Nolan" 0 102,104
+CDART1245900 "Whispers in the Wind" "Ethereal Echoes" 1 
+3333-4444-2222-5555-1-4444-3333-M "Inception" "Christopher Nolan" 1 104
+978-5-6789-1234-5 "Pride and Prejudice" "Jane Austen" 0 
+CDART1245593 "Midnight Serenade" "Luna Muse" 1 
+978-1-1234-5678-1 "The Catcher in the Rye" "J.D. Salinger" 1 
+978-9-3289-1923-9 "Catch-22" "Joseph Heller" 0 103
+CDART1245949 "Quantum Groove Odyssey" "Sonic Voyager" 0 
+978-7-8912-3456-7 "Animal Farm" "George Orwell" 1 
